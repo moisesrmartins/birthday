@@ -24,6 +24,13 @@ function App() {
           <Text
             styles={styles.title}
           >{`!!!!! 🎉🎉🎉 Parabéns ${e.target.value} feliz aniversário 🎉🎉🎉 !!!!!`}</Text>
+
+          <Text
+            styles={styles.title}
+          >{`🤩🤩🤩 Continue sendo essa grande e extraordinária pessoa que é. 🤩🤩🤩`}</Text>
+          <Text
+            styles={styles.title}
+          >{`🥳🥳🥳 Tenha um ótimo dia repleto de felicidade e alegria, PARABÉNS 🥳🥳🥳`}</Text>
         </View>
       );
       setValueInput("");
