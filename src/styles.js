@@ -17,4 +17,7 @@ const styles = StyleSheet.create({
   },
 });
 
+const currentYear = new Date().getFullYear();
+console.log(currentYear);
+
 export default styles;
